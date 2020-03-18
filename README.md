@@ -10,6 +10,15 @@ Android正式版下载地址：<br>
 Android正式版二维码下载地址：<br>
 ![](https://github.com/yu75567218/wool/raw/master/android_scan.png)<br>
 ios版本还未打包<br>
+# 博客系列
+[Flutter写第一个跨平台薅羊毛APP（一）](https://blog.csdn.net/yu75567218/article/details/103985178)<br>
+[Flutter写第一个跨平台薅羊毛APP（二）--APP端](https://blog.csdn.net/yu75567218/article/details/104019206)<br>
+[Flutter写第一个跨平台薅羊毛APP（三）--服务端](https://blog.csdn.net/yu75567218/article/details/104041621)<br>
+[Flutter写第一个跨平台薅羊毛APP（四）--部署服务器](https://blog.csdn.net/yu75567218/article/details/104757061)<br>
+[Flutter写第一个跨平台薅羊毛APP（五）--如何运营这个APP](https://blog.csdn.net/yu75567218/article/details/104828085)<br>
+[Flutter写第一个跨平台薅羊毛APP（六）--搭建ios平台](https://blog.csdn.net/yu75567218/article/details/104878156)<br>
+[Flutter写第一个跨平台薅羊毛APP（七）--申报软件著作权](https://blog.csdn.net/yu75567218/article/details/104919899)<br>
+[Flutter写第一个跨平台薅羊毛APP（八）--GitHub开源](https://blog.csdn.net/yu75567218/article/details/104940627)
 # 主要项目负责人
 669087050@qq.com
 # 开源协议
